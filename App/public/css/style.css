@@ -1,0 +1,42 @@
+  #form{
+    border-style: groove ;
+    border-color: chartreuse;
+    border-radius: 15px;
+    padding: 20px;
+    width: 400px;
+     position:absolute;
+    top: 40%;
+    left: 40%;  
+} 
+#login{
+    float: right;
+    margin-right: 1%;
+    margin-top: 5%;
+    background: blue;
+    color: white;
+}
+.cauhoi{
+    background: lavender;
+    /* border: black; */
+}
+.thongtin{
+    background: lavenderblush;
+}
+.dangnhap{
+ 
+    position:absolute;
+    top: 30%;
+    left: 35%;   
+}
+#h{
+    text-align: center;
+}
+#username{
+    width: 320px;
+    background:#ffff99;
+}
+#password{
+    width: 320px;
+    background: #ffff99;
+    
+}  

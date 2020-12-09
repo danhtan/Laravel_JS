@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.nd{
+    border-left: 1px solid black;
+    position: relative;
+    height: 100%;
+}
+#monhoc div{
+    color:black;
+    width: 100%;
+}
+#monhoc div:hover{
+    background: lightblue;
+    cursor: pointer;
+}
+.btnThemMH{
+    position: relative;
+    margin-top:20px;
+    margin-bottom: 10px;
+}
+#dapAn textarea,#sua_dapAn textarea{
+    margin-top:20px;
+    width: 98%;
+    border-radius: 4px;
+    position: relative;
+}
+ ol li{
+    position: relative;
+    left: 2%;
+    width: 98%;
+}
+xmp{
+    font-family:  "Helvetica Neue",Helvetica,Arial,sans-serif;
+    white-space: pre-wrap ;
+}
+#cauhoi>ol{
+    border-bottom: 1px solid black;
+}
+.canle{
+    border-right: 1px solid black;
+    position: fixed;
+    width: 25%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.col9{
+    display: none;
+}
+
+.btnDangXuat, .btnTaoTaiKhoan{
+    float: right;
+    margin: 5px;
+}
+a:hover{
+    cursor: pointer;
+}
